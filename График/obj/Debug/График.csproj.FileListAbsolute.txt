@@ -1,0 +1,11 @@
+C:\Users\325L-10\Desktop\Ковязин ПР-21\График\bin\Debug\График.exe.config
+C:\Users\325L-10\Desktop\Ковязин ПР-21\График\bin\Debug\График.exe
+C:\Users\325L-10\Desktop\Ковязин ПР-21\График\bin\Debug\График.pdb
+C:\Users\325L-10\Desktop\Ковязин ПР-21\График\obj\Debug\График.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-10\Desktop\Ковязин ПР-21\График\obj\Debug\График.Form1.resources
+C:\Users\325L-10\Desktop\Ковязин ПР-21\График\obj\Debug\График.Properties.Resources.resources
+C:\Users\325L-10\Desktop\Ковязин ПР-21\График\obj\Debug\График.csproj.GenerateResource.cache
+C:\Users\325L-10\Desktop\Ковязин ПР-21\График\obj\Debug\График.csproj.CoreCompileInputs.cache
+C:\Users\325L-10\Desktop\Ковязин ПР-21\График\obj\Debug\График.exe
+C:\Users\325L-10\Desktop\Ковязин ПР-21\График\obj\Debug\График.pdb
+C:\Users\325L-10\Desktop\Ковязин ПР-21\График\obj\Debug\График.csproj.AssemblyReference.cache
